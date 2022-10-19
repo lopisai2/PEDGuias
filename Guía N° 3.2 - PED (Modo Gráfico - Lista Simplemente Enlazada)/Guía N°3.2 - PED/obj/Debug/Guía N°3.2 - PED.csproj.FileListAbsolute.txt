@@ -1,0 +1,20 @@
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\obj\Debug\Guía_N_3._2___PED.Form1.resources
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\obj\Debug\Guía_N_3._2___PED.Properties.Resources.resources
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\bin\Debug\Guía N°3.2 - PED.exe.config
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\bin\Debug\Guía N°3.2 - PED.exe
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\bin\Debug\Guía N°3.2 - PED.pdb
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.exe
+H:\Progra\2021\Guía N°3.2 - PED\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.pdb
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\bin\Debug\Guía N°3.2 - PED.exe.config
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\bin\Debug\Guía N°3.2 - PED.exe
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\bin\Debug\Guía N°3.2 - PED.pdb
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\obj\Debug\Guía_N_3._2___PED.Form1.resources
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\obj\Debug\Guía_N_3._2___PED.Properties.Resources.resources
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.exe
+H:\Progra\2021\Guía N° 3.2 - PED (Modo Gráfico - Lista Simplemente Enlazada)\Guía N°3.2 - PED\obj\Debug\Guía N°3.2 - PED.pdb

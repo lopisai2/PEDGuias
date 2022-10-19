@@ -1,0 +1,20 @@
+H:\Progra\2021\Guía 5 - PED\obj\Debug\Guía 5 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía 5 - PED\obj\Debug\Guía_5___PED.Properties.Resources.resources
+H:\Progra\2021\Guía 5 - PED\obj\Debug\Guía 5 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guía 5 - PED\obj\Debug\Guía 5 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía 5 - PED\bin\Debug\Guía 5 - PED.exe.config
+H:\Progra\2021\Guía 5 - PED\bin\Debug\Guía 5 - PED.exe
+H:\Progra\2021\Guía 5 - PED\bin\Debug\Guía 5 - PED.pdb
+H:\Progra\2021\Guía 5 - PED\obj\Debug\Guía 5 - PED.exe
+H:\Progra\2021\Guía 5 - PED\obj\Debug\Guía 5 - PED.pdb
+H:\Progra\2021\Guía 5 - PED\obj\Debug\Guía_5___PED.Form1.resources
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\bin\Debug\Guía 5 - PED.exe.config
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\bin\Debug\Guía 5 - PED.exe
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\bin\Debug\Guía 5 - PED.pdb
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\obj\Debug\Guía 5 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\obj\Debug\Guía_5___PED.Form1.resources
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\obj\Debug\Guía_5___PED.Properties.Resources.resources
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\obj\Debug\Guía 5 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\obj\Debug\Guía 5 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\obj\Debug\Guía 5 - PED.exe
+H:\Progra\2021\Guía N° 6 - PED (Modo Gráfico - Arbol ABB)\obj\Debug\Guía 5 - PED.pdb

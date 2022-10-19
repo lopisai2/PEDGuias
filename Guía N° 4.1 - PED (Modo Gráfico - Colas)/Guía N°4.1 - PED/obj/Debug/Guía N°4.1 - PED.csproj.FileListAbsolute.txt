@@ -1,0 +1,20 @@
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\bin\Debug\Guía N°4.1 - PED.exe.config
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\bin\Debug\Guía N°4.1 - PED.exe
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\bin\Debug\Guía N°4.1 - PED.pdb
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\obj\Debug\Guía_N_4._1___PED.Form1.resources
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\obj\Debug\Guía_N_4._1___PED.Properties.Resources.resources
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.exe
+H:\Progra\2021\Guía N°4.1 - PED\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.pdb
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\bin\Debug\Guía N°4.1 - PED.exe.config
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\bin\Debug\Guía N°4.1 - PED.exe
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\bin\Debug\Guía N°4.1 - PED.pdb
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\obj\Debug\Guía_N_4._1___PED.Form1.resources
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\obj\Debug\Guía_N_4._1___PED.Properties.Resources.resources
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.exe
+H:\Progra\2021\Guía N° 4.1 - PED (Modo Gráfico - Colas)\Guía N°4.1 - PED\obj\Debug\Guía N°4.1 - PED.pdb

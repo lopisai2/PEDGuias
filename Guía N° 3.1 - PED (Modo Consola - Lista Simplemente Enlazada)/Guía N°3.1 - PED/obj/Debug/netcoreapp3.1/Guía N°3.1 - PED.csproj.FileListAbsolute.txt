@@ -1,0 +1,26 @@
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.exe
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.deps.json
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.runtimeconfig.json
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.runtimeconfig.dev.json
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.dll
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.pdb
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.AssemblyInfoInputs.cache
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.AssemblyInfo.cs
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.dll
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.pdb
+H:\Progra\2021\Guía N°3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.genruntimeconfig.cache
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.exe
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.deps.json
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.runtimeconfig.json
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.runtimeconfig.dev.json
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.dll
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\bin\Debug\netcoreapp3.1\Guía N°3.1 - PED.pdb
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.AssemblyInfoInputs.cache
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.AssemblyInfo.cs
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.dll
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.pdb
+H:\Progra\2021\Guía N° 3.1 - PED\Guía N°3.1 - PED\obj\Debug\netcoreapp3.1\Guía N°3.1 - PED.genruntimeconfig.cache

@@ -1,0 +1,24 @@
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia N° 11 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia_N__11___PED.Arco.resources
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia_N__11___PED.App.resources
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia_N__10___PED.Properties.Resources.resources
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia_N__11___PED.Vertice.resources
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia N° 11 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia N° 11 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia N° 10 - PED.exe
+H:\Progra\2021\Guia N° 11 - PED\obj\Debug\Guia N° 10 - PED.pdb
+H:\Progra\2021\Guia N° 11 - PED\bin\Debug\Guia N° 10 - PED.exe.config
+H:\Progra\2021\Guia N° 11 - PED\bin\Debug\Guia N° 10 - PED.exe
+H:\Progra\2021\Guia N° 11 - PED\bin\Debug\Guia N° 10 - PED.pdb
+H:\Progra\2021\Guia N° 11 - PEDv2\bin\Debug\Guia N° 10 - PED.exe.config
+H:\Progra\2021\Guia N° 11 - PEDv2\bin\Debug\Guia N° 10 - PED.exe
+H:\Progra\2021\Guia N° 11 - PEDv2\bin\Debug\Guia N° 10 - PED.pdb
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia N° 11 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia_N__11___PED.Arco.resources
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia_N__11___PED.App.resources
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia_N__10___PED.Properties.Resources.resources
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia_N__11___PED.Vertice.resources
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia N° 11 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia N° 11 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia N° 10 - PED.exe
+H:\Progra\2021\Guia N° 11 - PEDv2\obj\Debug\Guia N° 10 - PED.pdb

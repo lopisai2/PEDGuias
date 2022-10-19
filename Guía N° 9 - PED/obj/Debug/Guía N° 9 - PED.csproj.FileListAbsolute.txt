@@ -1,0 +1,10 @@
+H:\Progra\2021\Guía N° 9 - PED\bin\Debug\Guía N° 9 - PED.exe.config
+H:\Progra\2021\Guía N° 9 - PED\bin\Debug\Guía N° 9 - PED.exe
+H:\Progra\2021\Guía N° 9 - PED\bin\Debug\Guía N° 9 - PED.pdb
+H:\Progra\2021\Guía N° 9 - PED\obj\Debug\Guía N° 9 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N° 9 - PED\obj\Debug\Guía_N__9___PED.App.resources
+H:\Progra\2021\Guía N° 9 - PED\obj\Debug\Guía_N__9___PED.Properties.Resources.resources
+H:\Progra\2021\Guía N° 9 - PED\obj\Debug\Guía N° 9 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guía N° 9 - PED\obj\Debug\Guía N° 9 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N° 9 - PED\obj\Debug\Guía N° 9 - PED.exe
+H:\Progra\2021\Guía N° 9 - PED\obj\Debug\Guía N° 9 - PED.pdb

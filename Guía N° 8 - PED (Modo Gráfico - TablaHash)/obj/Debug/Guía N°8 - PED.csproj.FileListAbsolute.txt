@@ -1,0 +1,30 @@
+C:\Users\alfda\source\repos\Guía N°8 - PED\bin\Debug\Guía N°8 - PED.exe.config
+C:\Users\alfda\source\repos\Guía N°8 - PED\bin\Debug\Guía N°8 - PED.exe
+C:\Users\alfda\source\repos\Guía N°8 - PED\bin\Debug\Guía N°8 - PED.pdb
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía N°8 - PED.csprojAssemblyReference.cache
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía_N_8___PED.Form1.resources
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía_N_8___PED.Properties.Resources.resources
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía N°8 - PED.csproj.GenerateResource.cache
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía N°8 - PED.csproj.CoreCompileInputs.cache
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía N°8 - PED.exe
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía N°8 - PED.pdb
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía_N_8___PED.TestBase.resources
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía_N_8___PED.Añadir.resources
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía_N_8___PED.Mostrar.resources
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía_N_8___PED.Buscar.resources
+C:\Users\alfda\source\repos\Guía N°8 - PED\obj\Debug\Guía_N_8___PED.Eliminar.resources
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\bin\Debug\Guía N°8 - PED.exe.config
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\bin\Debug\Guía N°8 - PED.exe
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\bin\Debug\Guía N°8 - PED.pdb
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía N°8 - PED.csprojAssemblyReference.cache
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía_N_8___PED.Añadir.resources
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía_N_8___PED.Buscar.resources
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía_N_8___PED.Eliminar.resources
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía_N_8___PED.Form1.resources
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía_N_8___PED.Mostrar.resources
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía_N_8___PED.Properties.Resources.resources
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía_N_8___PED.TestBase.resources
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía N°8 - PED.csproj.GenerateResource.cache
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía N°8 - PED.csproj.CoreCompileInputs.cache
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía N°8 - PED.exe
+H:\Progra\2021\Guía N° 8 - PED (Modo Gráfico - TablaHash)\obj\Debug\Guía N°8 - PED.pdb
